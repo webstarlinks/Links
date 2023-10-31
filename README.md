@@ -1,5 +1,7 @@
 # Websurf
-Websurf is a web-proxy which unblocks websites and removes censorship for school. Start by a single tap!
+Websurf  provides web proxys for schools.
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 This project is not finalized meaning it has not been developer yet.
 
@@ -32,6 +34,35 @@ You can visit replit at: https://repl.it
 You can visit Railway at: https://railway.app 
 
 You can visit Koyeb at: https://koyeb.app
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+Host Intrese! https://github.com/webstardevs/Intrese
+
+Intrese is a multipurpose proxy hosted using the dependincies of Intellstellar.
+
+Host it on  Replit, Koyeb & more.
+
+Banned Deployments due to Proxys:
+
+Railway.app
+Heroku.com 
+CodeSandBox
+ANY STATIC HOSTS [LIKE GITHUB PAGES AND MORE]
+Render.com [IS A WEB DEPLOYMENT APP AND A STATIC HOST BUT DOES NOT WORK]
+
+If you are going to use render, use P45. 
+
+You can deploy the tool on render. To run the webapp locally, use the following commands:
+
+git clone https://github.com/CyberTitus/P45.git
+cd P45
+npm install
+node index.js
+
+https://github.com/AbdulRKB/P45
+
+default port: 8080
 
 You can visit Heroku at: heroku.com [Card is required to deploy, we recommend Velocity if you are going to use heroku.]
 
