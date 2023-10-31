@@ -7,11 +7,11 @@ Try Websurf when its done developed by Webstar! - webstar.live
 
 # About Websurf
 
-Websurf is a free, multipurpose proxy to unblock websites & censorship for school. 
+Websurf provides links for web proxys on Heroku, Railway and more.
 
 # Censorship
 
-This supports many sites, hoping to support hCAPTCHA. 
+This proxies supports many sites, hoping to support hCAPTCHA. [maybe] 
 
 # Hop.sh 
 
