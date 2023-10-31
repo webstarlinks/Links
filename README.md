@@ -27,4 +27,15 @@ We recommend deploying on replit, railway.app, koyeb & more.
 
 # Websites
 
-You can visit replit at: (click-here)[https://repl.it]
+You can visit replit at: https://repl.it
+
+You can visit Railway at: https://railway.app 
+
+You can visit Koyeb at: https://koyeb.app
+
+You can visit Heroku at: heroku.com [Card is required to deploy, we recommend Velocity if you are going to use heroku.]
+
+Velocity Web Proxy: https://webtabs-98b3f3eaa095.herokuapp.com/ [Example that I deployed]
+
+Visit Velocity on Git: https://github.com/cohenerickson/Velocity
+
