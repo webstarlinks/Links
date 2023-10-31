@@ -3,4 +3,20 @@ Websurf is a web-proxy which unblocks websites and removes censorship for school
 
 This project is not finalized meaning it has not been developer yet.
 
-Try Webshore when its done developed by Webstar! - webstar.live
+Try Websurf when its done developed by Webstar! - webstar.live
+
+# About Websurf
+
+Websurf is a free, multipurpose proxy to unblock websites & censorship for school. 
+
+# Censorship
+
+This supports many sites, hoping to support hCAPTCHA. 
+
+# Hop.sh 
+
+Hop.sh does not support many websites such as twitter, discord & more.
+
+Remember if you host this on hop, it will not work on all websites. 
+
+For ex: unblocked.hop.sh [This does not support most websites and is hosted by Intellstellar]
