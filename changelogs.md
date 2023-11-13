@@ -14,4 +14,4 @@ Added One More Interstellar Link, Intrese Link & A Doge Unblocker Link. All prox
 
 # Information
 
-If your schools block hop.sh we will try to do other hosts soon.
+Information will be posted here for further information or inside the changelogs.
