@@ -1,3 +1,10 @@
+# My Favorites
+
+My favorite web proxy is Intrese & Interstellar for there sleek design & uv proxy with blazing fast speeds.
+
+In my opinion, Interstellar is the best in my opinion for the games & more.
+I recommend Intrese as it is a private proxy & is super fast too. Games will be added in the future!
+
 # Intrese Links:
 
 <p>https://k29hcm0apc.hop.sh</p>
