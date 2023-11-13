@@ -10,6 +10,8 @@ Added New Links Since Some Were Blocked
 
 Added One More Interstellar Link, Intrese Link & A Doge Unblocker Link. All proxys made by us have random strings so our blockers for school take forever to find it. 
 
+<p>Added Incognito Proxy Links more hosts will be added soon.</p>
+
 # Information
 
 If your schools block hop.sh we will try to do other hosts soon.
