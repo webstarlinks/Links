@@ -5,9 +5,13 @@
 
 # How do you find the Links?
 
-You are able to find the links at the directory: /links/links.md and you can find it by clicking (here)[https://github.com/webstarlinks/Links/links/links.md].
+You are able to find the links at the directory: /links/links.md and you can find it in this link: [https://github.com/webstarlinks/Links/links/links.md].
 
 # Changelogs
 
-Changelogs will be posted at changelogs.md by clicking (here)[https://github.com/webstarlinks/Links/changelogs.md].
+Changelogs will be posted at changelogs.md in this link: [https://github.com/webstarlinks/Links/changelogs.md].
+
+Information if CK-Express has blocked the hosts will be posted in the changelogs.
+
+Proxys will not be replaced for a day or two or a couple of days if they have blocked it all.
 
