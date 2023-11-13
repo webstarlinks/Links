@@ -1,9 +1,6 @@
 # Intrese Links:
 
-intrese.intrese.repl.co
-
-If blocked:
-
+https://k29hcm0apc.hop.sh
 intrese.hop.sh
 
 # Interstellar Links:
@@ -16,11 +13,7 @@ https://018461982.hop.sh
 
 # Unblocker Links
 
-unblocker.hop.sh
-
-# Holy Unblocker Links
-
-ihop.hop.sh
+unblocker.hop.sh [ This may be blocked within the time period of Nov. 13 - Nov 25 due to CK Express. ] If you don't have CK Express you are good.
 
 # Metallic Links
 
