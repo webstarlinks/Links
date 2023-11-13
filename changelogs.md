@@ -8,4 +8,8 @@ Added New Links Since Some Were Blocked
 
 # Nov 13.
 
-Added One More Interstellar Link & Intrese Link. Removed Holy Unblocker due to it being down most of the time & adding more proxy's such as doge unblocker soon.
+Added One More Interstellar Link, Intrese Link & A Doge Unblocker Link. All proxys made by us have random strings so our blockers for school take forever to find it. 
+
+# Information
+
+If your schools block hop.sh we will try to do other hosts soon.
