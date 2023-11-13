@@ -1,3 +1,5 @@
+# Information About Changelogs
+
 Changelogs will reset every week.
  
  # Nov 12.
