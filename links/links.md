@@ -8,7 +8,7 @@ intrese.hop.sh
 
 # Interstellar Links:
 
-https://interstellar.hop.sh [ Blocked if you are using CK-Express ]
+https://interstellar-10.hop.sh
 https://interstellar-16.hop.sh 
 https://interstellar-14.hop.sh 
 https://interstellar-12.hop.sh 
