@@ -12,6 +12,12 @@ Added One More Interstellar Link, Intrese Link & A Doge Unblocker Link. All prox
 
 <p>Added Incognito Proxy Links and will add more proxy links soon.</p>
 
+# Nov 16.
+
+Added maybe working links. (From Public Dumps & they may not work.) We recommend the links in links/unblockers.md because they are checked to make sure they are good with CK-Express.
+
+Added TGB95 Links in the maybe working links: /links/maybe/tgb95/maybe.txt for more information
+
 # Information
 
 Information will be posted here for further information or inside the changelogs.
