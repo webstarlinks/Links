@@ -15,3 +15,6 @@ Information if CK-Express has blocked the hosts will be posted in the changelogs
 
 Proxys will not be replaced for a day or two or a couple of days if they have blocked it all.
 
+# Links 
+
+The maybe links are dump links meaning it is not a 100% chance of working since they are from a public website.
