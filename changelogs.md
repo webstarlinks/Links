@@ -20,6 +20,8 @@ Added maybe working links. (From Public Dumps & they may not work.) We recommend
 
 <p>Added one Incognito Link with more domains hosting soon.</p>
 
+<p>Added More Game Websites in links/games.txt: Added 100  Game Websites on Nov. 16</p>
+
 # Information
 
 Information will be posted here for further information or inside the changelogs.
