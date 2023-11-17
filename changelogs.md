@@ -22,6 +22,12 @@ Added maybe working links. (From Public Dumps & they may not work.) We recommend
 
 <p>Added More Game Websites in links/maybe/games/maybe.txt: Added 100  Game Websites on Nov. 16 / Dump Games so 5% Chance of Working with CK Express</p>
 
+# 8.00 PM PST Nov. 16
+
+<p>Added one more Interstellar Link & working on Doge Unblocker Links, Doge Unblocker will be updated tomorrow.</p>
+
+<p>We may cancel Metallic as it is no longer being worked on.</p>
+
 # Information
 
 Information will be posted here for further information or inside the changelogs.
