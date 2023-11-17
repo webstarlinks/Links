@@ -1,3 +1,10 @@
+# CK Express Forecast
+
+Our forecast is that CK-Express will soon visit this page and block all these websites. [ and by there domain ]
+Soon we will use a website for this exact reason.
+
+The website will be: webstar.live
+
 # My Favorites
 
 My favorite web proxy is Intrese & Interstellar for there sleek design & uv proxy with blazing fast speeds.
@@ -12,7 +19,7 @@ I recommend Intrese as it is a private proxy & is super fast too. Games will be 
 
 # Interstellar Links:
 
-
+https://interstellar-v4-dev-mrna.4.us-1.fl0.io/ [ Created by us so 100% working ]
 <p>https://boddyyguy-dev-djfp.1.ie-1.fl0.io/</p>
 <p>https://hi.hop.sh</p>
 <p>https://inter.hop.sh</p>
@@ -25,7 +32,6 @@ https://reading-is-cool.hop.sh/
 <p>https://interstellar-14.hop.sh</p> 
 <p>https://interstellar-12.hop.sh</p>
 <p>https://interstellar-1.hop.sh</p>
-<p>https://018461982.hop.sh</p>
 
 # Unblocker Links
 
@@ -36,9 +42,13 @@ https://reading-is-cool.hop.sh/
 <p>https://metallic-2.hop.sh</p>
 <p>https://metallic-1.hop.sh</p>
 
+<p>Metallic might be cancelled by us, as this project is no longer being worked on for Metallic.</p>
+
 # Doge Unblocker Links
 
 <p>https://s2e75y0nfn.hop.sh</p>
+
+<p>Adding more Doge Unblocker links soon.</p>
 
 # Incognito Links
 
