@@ -28,6 +28,12 @@ Added maybe working links. (From Public Dumps & they may not work.) We recommend
 
 <p>We may cancel Metallic as it is no longer being worked on.</p>
 
+# Dec. 4 
+
+Added More Interstellar & added Shuttle Proxy Links
+
+Sorry for being gone for 3 weeks, I had stuff to do!
+
 # Information
 
 Information will be posted here for further information or inside the changelogs.
