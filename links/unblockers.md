@@ -12,6 +12,11 @@ My favorite web proxy is Intrese & Interstellar for there sleek design & uv prox
 In my opinion, Interstellar is the best in my opinion for the games & more.
 I recommend Intrese as it is a private proxy & is super fast too. Games will be added in the future!
 
+# Shuttleee 
+
+<p>https://shuttle.hop.sh</p>
+<p>https://daddy.hop.sh</p>
+
 # Intrese Links:
 
 <p>https://k29hcm0apc.hop.sh</p>
@@ -20,7 +25,7 @@ I recommend Intrese as it is a private proxy & is super fast too. Games will be 
 # Interstellar Links:
 
 <p>https://interstellar-v4-dev-mrna.4.us-1.fl0.io/ [ Created by us so 100% working ]</p>
-<p>https://boddyyguy-dev-djfp.1.ie-1.fl0.io/</p>
+<p>https://boddyyguy-dev-djfp.1.ie-1.fl0.io/</p> [ Blocked by CK Express ]
 <p>https://hi.hop.sh</p>
 <p>https://inter.hop.sh</p>
 <p>https://stellar.hop.sh</p>
@@ -31,6 +36,15 @@ I recommend Intrese as it is a private proxy & is super fast too. Games will be 
 <p>https://interstellar-14.hop.sh</p> 
 <p>https://interstellar-12.hop.sh</p>
 <p>https://interstellar-1.hop.sh</p>
+<p>https://69.hop.sh</p>
+<p>https://420.hop.sh</p>
+<p>https://galactic.hop.sh</p>
+<p>https://gyat.hop.sh</p>
+<p>https://69420.hop.sh</p>
+<p>https://homework.hop.sh/</p>
+<p>https://4.hop.sh/</p>
+<p>https://2.hop.sh/</p>
+
 
 # Unblocker Links
 
