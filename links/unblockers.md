@@ -19,13 +19,11 @@ I recommend Intrese as it is a private proxy & is super fast too. Games will be 
 
 # Intrese Links:
 
-<p>https://k29hcm0apc.hop.sh</p>
-<p>https://intrese.hop.sh</p>
+<p>Adding more soon, the old ones got removed due to payment issues.</p>
 
 # Interstellar Links:
 
-<p>https://interstellar-v4-dev-mrna.4.us-1.fl0.io/ [ Created by us so 100% working ]</p>
-<p>https://boddyyguy-dev-djfp.1.ie-1.fl0.io/</p> [ Blocked by CK Express ]
+<p>https://interstellar-v4-dev-mrna.4.us-1.fl0.io/ [Inactive so taken down ] (This will be removed in a a time period if it does not work.) </p>
 <p>https://hi.hop.sh</p>
 <p>https://inter.hop.sh</p>
 <p>https://stellar.hop.sh</p>
@@ -46,22 +44,22 @@ I recommend Intrese as it is a private proxy & is super fast too. Games will be 
 <p>https://2.hop.sh/</p>
 
 
-# Unblocker Links
+# Art Class Links
 
-<p>https://unblocker.hop.sh [ This may be blocked within the time period of Nov. 13 - Nov 25 due to CK Express. ] If you don't have CK Express you are good.
+<p>Adding more soon, the old ones got removed due to CK Express or schools noticing it so the people who made it took it down..</p>
 
 # Metallic Links
 
 <p>https://metallic-2.hop.sh</p>
 <p>https://metallic-1.hop.sh</p>
+<p>https://metallic-3.hop.sh/</p>
+<p>https://metallic-4.hop.sh/</p>
 
 <p>Metallic might be cancelled by us, as this project is no longer being worked on for Metallic.</p>
 
 # Doge Unblocker Links
 
-<p>https://s2e75y0nfn.hop.sh</p>
-
-<p>Adding more Doge Unblocker links soon.</p>
+<p>Adding more soon, the old ones got removed due to payment issues.</p>
 
 # Incognito Links
 
@@ -69,7 +67,11 @@ I recommend Intrese as it is a private proxy & is super fast too. Games will be 
 <p>https://incognito-4.hop.sh/</p>
 <p>https://incognito-3.hop.sh/</p>
 <p>https://incognito-2.hop.sh/</p>
-<p>https://5.hop.sh</p>
+<p>https://incognito-5.hop.sh/</p>
+<p>https://incognito-6.hop.sh/</p>
+<p>https://incognito-7.hop.sh/</p>
+<p>https://incognito-8.hop.sh/</p>
+<p>https://incognito-9.hop.sh/</p>
 
 # Proxys Information
 
