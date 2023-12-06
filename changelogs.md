@@ -34,6 +34,12 @@ Added More Interstellar & added Shuttle Proxy Links
 
 Sorry for being gone for 3 weeks, I had stuff to do!
 
+# Dec. 6
+
+Added more Incognito links and Metallic links.
+
+We will add back Doge Unblocker & Art Class once I find more. ( The private ones made by us got taken down due to payment issues ]
+
 # Information
 
 Information will be posted here for further information or inside the changelogs.
