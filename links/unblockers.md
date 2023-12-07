@@ -1,3 +1,13 @@
+# Google Sites Links
+
+<p>These websites will be updated everytime if blocked.</p>
+
+<p>https://sites.google.com/view/ysYjvS2nuk</p>
+<p>https://sites.google.com/view/IQoPhrT3sCEgq36u</p>
+<p>https://sites.google.com/view/3gpw2Z</p>
+<p>https://sites.google.com/view/RBsNY2</p>
+<p>https://sites.google.com/view/2989x072</p>
+
 # CK Express Forecast
 
 Our forecast is that CK-Express will soon visit this page and block all these websites. [ and by there domain ]
