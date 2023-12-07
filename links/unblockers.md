@@ -12,6 +12,10 @@ My favorite web proxy is Intrese & Interstellar for there sleek design & uv prox
 In my opinion, Interstellar is the best in my opinion for the games & more.
 I recommend Intrese as it is a private proxy & is super fast too. Games will be added in the future!
 
+# Websites Blocked by CK Express
+
+It can be found in the blocked.txt file.
+
 # Shuttleee 
 
 <p>https://shuttle.hop.sh</p>
@@ -20,6 +24,10 @@ I recommend Intrese as it is a private proxy & is super fast too. Games will be 
 # Intrese Links:
 
 <p>Adding more soon, the old ones got removed due to payment issues.</p>
+
+# Interstellar Links (Changed the name)
+
+<p>https://nope.hop.sh/ [ IST ] </p>
 
 # Interstellar Links:
 
