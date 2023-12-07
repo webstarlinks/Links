@@ -4,6 +4,8 @@
 <p>vexlix.cfd</p>
 <p>proxystar.dev</p>
 <p>starschools.us</p>
+<p>rogen.cfd</p>
+<p>webstar.live</p>
 
 <p>all are blocked by ck express</p>
 
